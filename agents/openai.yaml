@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excel 样式"
+  short_description: "维护 Excel 标题、配色、原生数学公式和展示行高，保留已有工作簿布局"
+  default_prompt: "使用 $excel-style 编辑指定 Excel 文件，沿用已确认样式，保留原生数学公式并检查公式展示区行高。"
